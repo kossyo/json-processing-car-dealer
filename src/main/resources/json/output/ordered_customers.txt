@@ -1,0 +1,1291 @@
+[
+  {
+    "id": 29,
+    "name": "Louann Holzworth",
+    "birthDate": "1960-10-01T00:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "discount": 20.0,
+        "carMake": "Chevy",
+        "carModel": "Impala",
+        "customerName": "Louann Holzworth",
+        "customerBirthDate": "1960-10-01T00:00:00"
+      },
+      {
+        "discount": 15.0,
+        "carMake": "Peugeot",
+        "carModel": "308",
+        "customerName": "Louann Holzworth",
+        "customerBirthDate": "1960-10-01T00:00:00"
+      },
+      {
+        "discount": 0.0,
+        "carMake": "Skoda",
+        "carModel": "Fabia",
+        "customerName": "Louann Holzworth",
+        "customerBirthDate": "1960-10-01T00:00:00"
+      },
+      {
+        "discount": 20.0,
+        "carMake": "Dacia",
+        "carModel": "Duster",
+        "customerName": "Louann Holzworth",
+        "customerBirthDate": "1960-10-01T00:00:00"
+      },
+      {
+        "discount": 40.0,
+        "carMake": "Toyota",
+        "carModel": "Prius",
+        "customerName": "Louann Holzworth",
+        "customerBirthDate": "1960-10-01T00:00:00"
+      },
+      {
+        "discount": 5.0,
+        "carMake": "Renault",
+        "carModel": "Alaskan",
+        "customerName": "Louann Holzworth",
+        "customerBirthDate": "1960-10-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Donnetta Soliz",
+    "birthDate": "1963-10-01T00:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "discount": 40.0,
+        "carMake": "Ferrari",
+        "carModel": "250 GTO",
+        "customerName": "Donnetta Soliz",
+        "customerBirthDate": "1963-10-01T00:00:00"
+      },
+      {
+        "discount": 15.0,
+        "carMake": "Fiat",
+        "carModel": "500 (2007) Abarth 695 Tributo Maserati",
+        "customerName": "Donnetta Soliz",
+        "customerBirthDate": "1963-10-01T00:00:00"
+      },
+      {
+        "discount": 40.0,
+        "carMake": "Ford",
+        "carModel": "Pinto",
+        "customerName": "Donnetta Soliz",
+        "customerBirthDate": "1963-10-01T00:00:00"
+      },
+      {
+        "discount": 15.0,
+        "carMake": "Citroen",
+        "carModel": "Elysée",
+        "customerName": "Donnetta Soliz",
+        "customerBirthDate": "1963-10-01T00:00:00"
+      },
+      {
+        "discount": 20.0,
+        "carMake": "Opel",
+        "carModel": "Corsa",
+        "customerName": "Donnetta Soliz",
+        "customerBirthDate": "1963-10-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Rema Revelle",
+    "birthDate": "1970-05-01T00:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "discount": 50.0,
+        "carMake": "Opel",
+        "carModel": "Omega",
+        "customerName": "Rema Revelle",
+        "customerBirthDate": "1970-05-01T00:00:00"
+      },
+      {
+        "discount": 10.0,
+        "carMake": "Citroen",
+        "carModel": "C1",
+        "customerName": "Rema Revelle",
+        "customerBirthDate": "1970-05-01T00:00:00"
+      },
+      {
+        "discount": 0.0,
+        "carMake": "Mercedes",
+        "carModel": "W211",
+        "customerName": "Rema Revelle",
+        "customerBirthDate": "1970-05-01T00:00:00"
+      },
+      {
+        "discount": 0.0,
+        "carMake": "BMW",
+        "carModel": "X6 M",
+        "customerName": "Rema Revelle",
+        "customerBirthDate": "1970-05-01T00:00:00"
+      },
+      {
+        "discount": 10.0,
+        "carMake": "BMW",
+        "carModel": "F04",
+        "customerName": "Rema Revelle",
+        "customerBirthDate": "1970-05-01T00:00:00"
+      },
+      {
+        "discount": 0.0,
+        "carMake": "Ford",
+        "carModel": "Fiesta",
+        "customerName": "Rema Revelle",
+        "customerBirthDate": "1970-05-01T00:00:00"
+      },
+      {
+        "discount": 30.0,
+        "carMake": "BMW",
+        "carModel": "F20",
+        "customerName": "Rema Revelle",
+        "customerBirthDate": "1970-05-01T00:00:00"
+      },
+      {
+        "discount": 10.0,
+        "carMake": "Nissan",
+        "carModel": "GT-R",
+        "customerName": "Rema Revelle",
+        "customerBirthDate": "1970-05-01T00:00:00"
+      },
+      {
+        "discount": 50.0,
+        "carMake": "Toyota",
+        "carModel": "Prius",
+        "customerName": "Rema Revelle",
+        "customerBirthDate": "1970-05-01T00:00:00"
+      },
+      {
+        "discount": 15.0,
+        "carMake": "Peugeot",
+        "carModel": "308",
+        "customerName": "Rema Revelle",
+        "customerBirthDate": "1970-05-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Carri Knapik",
+    "birthDate": "1972-02-02T00:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "discount": 50.0,
+        "carMake": "Rolls-Royce",
+        "carModel": "Phantom",
+        "customerName": "Carri Knapik",
+        "customerBirthDate": "1972-02-02T00:00:00"
+      },
+      {
+        "discount": 0.0,
+        "carMake": "Renault",
+        "carModel": "Duster",
+        "customerName": "Carri Knapik",
+        "customerBirthDate": "1972-02-02T00:00:00"
+      },
+      {
+        "discount": 0.0,
+        "carMake": "Rolls-Royce",
+        "carModel": "Phantom",
+        "customerName": "Carri Knapik",
+        "customerBirthDate": "1972-02-02T00:00:00"
+      },
+      {
+        "discount": 40.0,
+        "carMake": "Seat",
+        "carModel": "Toledo",
+        "customerName": "Carri Knapik",
+        "customerBirthDate": "1972-02-02T00:00:00"
+      },
+      {
+        "discount": 40.0,
+        "carMake": "Toyota",
+        "carModel": "Prius",
+        "customerName": "Carri Knapik",
+        "customerBirthDate": "1972-02-02T00:00:00"
+      },
+      {
+        "discount": 50.0,
+        "carMake": "Ford",
+        "carModel": "Fiesta",
+        "customerName": "Carri Knapik",
+        "customerBirthDate": "1972-02-02T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Garret Capron",
+    "birthDate": "1975-07-01T00:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "discount": 5.0,
+        "carMake": "Mercedes",
+        "carModel": "W212",
+        "customerName": "Garret Capron",
+        "customerBirthDate": "1975-07-01T00:00:00"
+      },
+      {
+        "discount": 50.0,
+        "carMake": "Citroen",
+        "carModel": "C5",
+        "customerName": "Garret Capron",
+        "customerBirthDate": "1975-07-01T00:00:00"
+      },
+      {
+        "discount": 10.0,
+        "carMake": "Nissan",
+        "carModel": "Altima",
+        "customerName": "Garret Capron",
+        "customerBirthDate": "1975-07-01T00:00:00"
+      },
+      {
+        "discount": 0.0,
+        "carMake": "Ford",
+        "carModel": "Taurus",
+        "customerName": "Garret Capron",
+        "customerBirthDate": "1975-07-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Teddy Hobby",
+    "birthDate": "1975-10-01T00:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "discount": 10.0,
+        "carMake": "Chevy",
+        "carModel": "Camaro",
+        "customerName": "Teddy Hobby",
+        "customerBirthDate": "1975-10-01T00:00:00"
+      },
+      {
+        "discount": 50.0,
+        "carMake": "Great Wall",
+        "carModel": "Haval H6",
+        "customerName": "Teddy Hobby",
+        "customerBirthDate": "1975-10-01T00:00:00"
+      },
+      {
+        "discount": 0.0,
+        "carMake": "Great Wall",
+        "carModel": "Wingle 5",
+        "customerName": "Teddy Hobby",
+        "customerBirthDate": "1975-10-01T00:00:00"
+      },
+      {
+        "discount": 15.0,
+        "carMake": "Fiat",
+        "carModel": "Freemont",
+        "customerName": "Teddy Hobby",
+        "customerBirthDate": "1975-10-01T00:00:00"
+      },
+      {
+        "discount": 20.0,
+        "carMake": "Alfa Romeo",
+        "carModel": "75",
+        "customerName": "Teddy Hobby",
+        "customerBirthDate": "1975-10-01T00:00:00"
+      },
+      {
+        "discount": 50.0,
+        "carMake": "Toyota",
+        "carModel": "Camry Hybrid",
+        "customerName": "Teddy Hobby",
+        "customerBirthDate": "1975-10-01T00:00:00"
+      },
+      {
+        "discount": 10.0,
+        "carMake": "Toyota",
+        "carModel": "Camry Hybrid",
+        "customerName": "Teddy Hobby",
+        "customerBirthDate": "1975-10-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Audrea Cardinal",
+    "birthDate": "1976-10-01T00:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "discount": 50.0,
+        "carMake": "Ford",
+        "carModel": "Ranger",
+        "customerName": "Audrea Cardinal",
+        "customerBirthDate": "1976-10-01T00:00:00"
+      },
+      {
+        "discount": 15.0,
+        "carMake": "Ford",
+        "carModel": "Fiesta",
+        "customerName": "Audrea Cardinal",
+        "customerBirthDate": "1976-10-01T00:00:00"
+      },
+      {
+        "discount": 40.0,
+        "carMake": "Nissan",
+        "carModel": "Altima",
+        "customerName": "Audrea Cardinal",
+        "customerBirthDate": "1976-10-01T00:00:00"
+      },
+      {
+        "discount": 20.0,
+        "carMake": "Nissan",
+        "carModel": "370Z",
+        "customerName": "Audrea Cardinal",
+        "customerBirthDate": "1976-10-01T00:00:00"
+      },
+      {
+        "discount": 40.0,
+        "carMake": "Chevy",
+        "carModel": "Caprice",
+        "customerName": "Audrea Cardinal",
+        "customerBirthDate": "1976-10-01T00:00:00"
+      },
+      {
+        "discount": 5.0,
+        "carMake": "Alfa Romeo",
+        "carModel": "AR51",
+        "customerName": "Audrea Cardinal",
+        "customerBirthDate": "1976-10-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Francis Mckim",
+    "birthDate": "1977-10-01T00:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "discount": 15.0,
+        "carMake": "Rolls-Royce",
+        "carModel": "Phantom",
+        "customerName": "Francis Mckim",
+        "customerBirthDate": "1977-10-01T00:00:00"
+      },
+      {
+        "discount": 15.0,
+        "carMake": "Renault",
+        "carModel": "Duster",
+        "customerName": "Francis Mckim",
+        "customerBirthDate": "1977-10-01T00:00:00"
+      },
+      {
+        "discount": 40.0,
+        "carMake": "Fiat",
+        "carModel": "Panda 4x4 Antarctica",
+        "customerName": "Francis Mckim",
+        "customerBirthDate": "1977-10-01T00:00:00"
+      },
+      {
+        "discount": 30.0,
+        "carMake": "Peugeot",
+        "carModel": "405",
+        "customerName": "Francis Mckim",
+        "customerBirthDate": "1977-10-01T00:00:00"
+      },
+      {
+        "discount": 40.0,
+        "carMake": "Mercedes",
+        "carModel": "W202",
+        "customerName": "Francis Mckim",
+        "customerBirthDate": "1977-10-01T00:00:00"
+      },
+      {
+        "discount": 5.0,
+        "carMake": "Nissan",
+        "carModel": "370Z",
+        "customerName": "Francis Mckim",
+        "customerBirthDate": "1977-10-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Brett Brickley",
+    "birthDate": "1980-10-01T00:00:00",
+    "isYoungDriver": true,
+    "sales": []
+  },
+  {
+    "id": 15,
+    "name": "Kristian Engberg",
+    "birthDate": "1981-10-03T00:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "discount": 40.0,
+        "carMake": "Mercedes",
+        "carModel": "W211",
+        "customerName": "Kristian Engberg",
+        "customerBirthDate": "1981-10-03T00:00:00"
+      },
+      {
+        "discount": 50.0,
+        "carMake": "Peugeot",
+        "carModel": "405",
+        "customerName": "Kristian Engberg",
+        "customerBirthDate": "1981-10-03T00:00:00"
+      },
+      {
+        "discount": 5.0,
+        "carMake": "Skoda",
+        "carModel": "Citigo",
+        "customerName": "Kristian Engberg",
+        "customerBirthDate": "1981-10-03T00:00:00"
+      },
+      {
+        "discount": 10.0,
+        "carMake": "Citroen",
+        "carModel": "C1",
+        "customerName": "Kristian Engberg",
+        "customerBirthDate": "1981-10-03T00:00:00"
+      },
+      {
+        "discount": 40.0,
+        "carMake": "Toyota",
+        "carModel": "Prius",
+        "customerName": "Kristian Engberg",
+        "customerBirthDate": "1981-10-03T00:00:00"
+      },
+      {
+        "discount": 20.0,
+        "carMake": "Skoda",
+        "carModel": "Rapid",
+        "customerName": "Kristian Engberg",
+        "customerBirthDate": "1981-10-03T00:00:00"
+      },
+      {
+        "discount": 0.0,
+        "carMake": "Mercedes",
+        "carModel": "W211",
+        "customerName": "Kristian Engberg",
+        "customerBirthDate": "1981-10-03T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Hipolito Lamoreaux",
+    "birthDate": "1982-08-01T00:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "discount": 5.0,
+        "carMake": "BMW",
+        "carModel": "M5 F10",
+        "customerName": "Hipolito Lamoreaux",
+        "customerBirthDate": "1982-08-01T00:00:00"
+      },
+      {
+        "discount": 40.0,
+        "carMake": "Skoda",
+        "carModel": "Rapid",
+        "customerName": "Hipolito Lamoreaux",
+        "customerBirthDate": "1982-08-01T00:00:00"
+      },
+      {
+        "discount": 5.0,
+        "carMake": "Chevy",
+        "carModel": "Cruze",
+        "customerName": "Hipolito Lamoreaux",
+        "customerBirthDate": "1982-08-01T00:00:00"
+      },
+      {
+        "discount": 5.0,
+        "carMake": "Ferrari",
+        "carModel": "F40",
+        "customerName": "Hipolito Lamoreaux",
+        "customerBirthDate": "1982-08-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Zada Attwood",
+    "birthDate": "1982-10-01T00:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "discount": 10.0,
+        "carMake": "Toyota",
+        "carModel": "Yaris",
+        "customerName": "Zada Attwood",
+        "customerBirthDate": "1982-10-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Sylvie Mcelravy",
+    "birthDate": "1983-10-01T00:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "discount": 15.0,
+        "carMake": "Fiat",
+        "carModel": "Freemont",
+        "customerName": "Sylvie Mcelravy",
+        "customerBirthDate": "1983-10-01T00:00:00"
+      },
+      {
+        "discount": 0.0,
+        "carMake": "Peugeot",
+        "carModel": "407",
+        "customerName": "Sylvie Mcelravy",
+        "customerBirthDate": "1983-10-01T00:00:00"
+      },
+      {
+        "discount": 0.0,
+        "carMake": "Chevy",
+        "carModel": "Camaro",
+        "customerName": "Sylvie Mcelravy",
+        "customerBirthDate": "1983-10-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Rico Peer",
+    "birthDate": "1984-10-01T00:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "discount": 20.0,
+        "carMake": "Peugeot",
+        "carModel": "306",
+        "customerName": "Rico Peer",
+        "customerBirthDate": "1984-10-01T00:00:00"
+      },
+      {
+        "discount": 10.0,
+        "carMake": "Ferrari",
+        "carModel": "275",
+        "customerName": "Rico Peer",
+        "customerBirthDate": "1984-10-01T00:00:00"
+      },
+      {
+        "discount": 15.0,
+        "carMake": "Peugeot",
+        "carModel": "206",
+        "customerName": "Rico Peer",
+        "customerBirthDate": "1984-10-01T00:00:00"
+      },
+      {
+        "discount": 20.0,
+        "carMake": "Great Wall",
+        "carModel": "Wingle 5",
+        "customerName": "Rico Peer",
+        "customerBirthDate": "1984-10-01T00:00:00"
+      },
+      {
+        "discount": 30.0,
+        "carMake": "Citroen",
+        "carModel": "C8",
+        "customerName": "Rico Peer",
+        "customerBirthDate": "1984-10-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Hai Everton",
+    "birthDate": "1985-10-01T00:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "discount": 5.0,
+        "carMake": "Peugeot",
+        "carModel": "308",
+        "customerName": "Hai Everton",
+        "customerBirthDate": "1985-10-01T00:00:00"
+      },
+      {
+        "discount": 20.0,
+        "carMake": "Fiat",
+        "carModel": "Panda 4x4",
+        "customerName": "Hai Everton",
+        "customerBirthDate": "1985-10-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Lino Subia",
+    "birthDate": "1985-12-21T00:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "discount": 20.0,
+        "carMake": "Renault",
+        "carModel": "Duster",
+        "customerName": "Lino Subia",
+        "customerBirthDate": "1985-12-21T00:00:00"
+      },
+      {
+        "discount": 50.0,
+        "carMake": "Alfa Romeo",
+        "carModel": "Alfetta",
+        "customerName": "Lino Subia",
+        "customerBirthDate": "1985-12-21T00:00:00"
+      },
+      {
+        "discount": 10.0,
+        "carMake": "Fiat",
+        "carModel": "Freemont",
+        "customerName": "Lino Subia",
+        "customerBirthDate": "1985-12-21T00:00:00"
+      },
+      {
+        "discount": 50.0,
+        "carMake": "Ford",
+        "carModel": "Pinto",
+        "customerName": "Lino Subia",
+        "customerBirthDate": "1985-12-21T00:00:00"
+      },
+      {
+        "discount": 10.0,
+        "carMake": "Toyota",
+        "carModel": "Camry Hybrid",
+        "customerName": "Lino Subia",
+        "customerBirthDate": "1985-12-21T00:00:00"
+      },
+      {
+        "discount": 30.0,
+        "carMake": "Alfa Romeo",
+        "carModel": "Giulietta",
+        "customerName": "Lino Subia",
+        "customerBirthDate": "1985-12-21T00:00:00"
+      },
+      {
+        "discount": 30.0,
+        "carMake": "Fiat",
+        "carModel": "500L",
+        "customerName": "Lino Subia",
+        "customerBirthDate": "1985-12-21T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Jimmy Grossi",
+    "birthDate": "1986-07-01T00:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "discount": 15.0,
+        "carMake": "Citroen",
+        "carModel": "C1",
+        "customerName": "Jimmy Grossi",
+        "customerBirthDate": "1986-07-01T00:00:00"
+      },
+      {
+        "discount": 15.0,
+        "carMake": "Skoda",
+        "carModel": "Citigo",
+        "customerName": "Jimmy Grossi",
+        "customerBirthDate": "1986-07-01T00:00:00"
+      },
+      {
+        "discount": 30.0,
+        "carMake": "Citroen",
+        "carModel": "Elysée",
+        "customerName": "Jimmy Grossi",
+        "customerBirthDate": "1986-07-01T00:00:00"
+      },
+      {
+        "discount": 20.0,
+        "carMake": "Toyota",
+        "carModel": "Corolla",
+        "customerName": "Jimmy Grossi",
+        "customerBirthDate": "1986-07-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Carole Witman",
+    "birthDate": "1987-10-01T00:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "discount": 15.0,
+        "carMake": "BMW",
+        "carModel": "F25",
+        "customerName": "Carole Witman",
+        "customerBirthDate": "1987-10-01T00:00:00"
+      },
+      {
+        "discount": 15.0,
+        "carMake": "Mercedes",
+        "carModel": "W124",
+        "customerName": "Carole Witman",
+        "customerBirthDate": "1987-10-01T00:00:00"
+      },
+      {
+        "discount": 10.0,
+        "carMake": "Mercedes",
+        "carModel": "W210",
+        "customerName": "Carole Witman",
+        "customerBirthDate": "1987-10-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Oren Perlman",
+    "birthDate": "1988-10-01T00:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "discount": 5.0,
+        "carMake": "Peugeot",
+        "carModel": "206",
+        "customerName": "Oren Perlman",
+        "customerBirthDate": "1988-10-01T00:00:00"
+      },
+      {
+        "discount": 10.0,
+        "carMake": "Nissan",
+        "carModel": "Rogue",
+        "customerName": "Oren Perlman",
+        "customerBirthDate": "1988-10-01T00:00:00"
+      },
+      {
+        "discount": 15.0,
+        "carMake": "Citroen",
+        "carModel": "C4",
+        "customerName": "Oren Perlman",
+        "customerBirthDate": "1988-10-01T00:00:00"
+      },
+      {
+        "discount": 50.0,
+        "carMake": "Fiat",
+        "carModel": "500 (2007) Abarth 695 Tributo Maserati",
+        "customerName": "Oren Perlman",
+        "customerBirthDate": "1988-10-01T00:00:00"
+      },
+      {
+        "discount": 30.0,
+        "carMake": "Chevy",
+        "carModel": "Cruze",
+        "customerName": "Oren Perlman",
+        "customerBirthDate": "1988-10-01T00:00:00"
+      },
+      {
+        "discount": 50.0,
+        "carMake": "Ford",
+        "carModel": "Pinto",
+        "customerName": "Oren Perlman",
+        "customerBirthDate": "1988-10-01T00:00:00"
+      },
+      {
+        "discount": 30.0,
+        "carMake": "BMW",
+        "carModel": "1M Coupe",
+        "customerName": "Oren Perlman",
+        "customerBirthDate": "1988-10-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Natalie Poli",
+    "birthDate": "1990-10-04T00:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "discount": 40.0,
+        "carMake": "Ford",
+        "carModel": "Fiesta",
+        "customerName": "Natalie Poli",
+        "customerBirthDate": "1990-10-04T00:00:00"
+      },
+      {
+        "discount": 10.0,
+        "carMake": "Citroen",
+        "carModel": "C1",
+        "customerName": "Natalie Poli",
+        "customerBirthDate": "1990-10-04T00:00:00"
+      },
+      {
+        "discount": 10.0,
+        "carMake": "Lamborghini",
+        "carModel": "Murciélago",
+        "customerName": "Natalie Poli",
+        "customerBirthDate": "1990-10-04T00:00:00"
+      },
+      {
+        "discount": 5.0,
+        "carMake": "Alfa Romeo",
+        "carModel": "164",
+        "customerName": "Natalie Poli",
+        "customerBirthDate": "1990-10-04T00:00:00"
+      },
+      {
+        "discount": 0.0,
+        "carMake": "Renault",
+        "carModel": "Duster",
+        "customerName": "Natalie Poli",
+        "customerBirthDate": "1990-10-04T00:00:00"
+      },
+      {
+        "discount": 20.0,
+        "carMake": "Seat",
+        "carModel": "Mii",
+        "customerName": "Natalie Poli",
+        "customerBirthDate": "1990-10-04T00:00:00"
+      },
+      {
+        "discount": 50.0,
+        "carMake": "Ferrari",
+        "carModel": "250 GTO",
+        "customerName": "Natalie Poli",
+        "customerBirthDate": "1990-10-04T00:00:00"
+      },
+      {
+        "discount": 15.0,
+        "carMake": "Opel",
+        "carModel": "Insignia",
+        "customerName": "Natalie Poli",
+        "customerBirthDate": "1990-10-04T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Marcelle Griego",
+    "birthDate": "1990-10-04T00:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "discount": 50.0,
+        "carMake": "Nissan",
+        "carModel": "Altima",
+        "customerName": "Marcelle Griego",
+        "customerBirthDate": "1990-10-04T00:00:00"
+      },
+      {
+        "discount": 5.0,
+        "carMake": "Nissan",
+        "carModel": "Altima",
+        "customerName": "Marcelle Griego",
+        "customerBirthDate": "1990-10-04T00:00:00"
+      },
+      {
+        "discount": 0.0,
+        "carMake": "Renault",
+        "carModel": "Captur",
+        "customerName": "Marcelle Griego",
+        "customerBirthDate": "1990-10-04T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Yvonne Mccalla",
+    "birthDate": "1992-03-02T00:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "discount": 30.0,
+        "carMake": "Ferrari",
+        "carModel": "250 GTO",
+        "customerName": "Yvonne Mccalla",
+        "customerBirthDate": "1992-03-02T00:00:00"
+      },
+      {
+        "discount": 50.0,
+        "carMake": "Opel",
+        "carModel": "Vectra",
+        "customerName": "Yvonne Mccalla",
+        "customerBirthDate": "1992-03-02T00:00:00"
+      },
+      {
+        "discount": 15.0,
+        "carMake": "BMW",
+        "carModel": "1M Coupe",
+        "customerName": "Yvonne Mccalla",
+        "customerBirthDate": "1992-03-02T00:00:00"
+      },
+      {
+        "discount": 15.0,
+        "carMake": "Toyota",
+        "carModel": "Camry Hybrid",
+        "customerName": "Yvonne Mccalla",
+        "customerBirthDate": "1992-03-02T00:00:00"
+      },
+      {
+        "discount": 40.0,
+        "carMake": "Mercedes",
+        "carModel": "W212",
+        "customerName": "Yvonne Mccalla",
+        "customerBirthDate": "1992-03-02T00:00:00"
+      },
+      {
+        "discount": 30.0,
+        "carMake": "Seat",
+        "carModel": "Mii",
+        "customerName": "Yvonne Mccalla",
+        "customerBirthDate": "1992-03-02T00:00:00"
+      },
+      {
+        "discount": 0.0,
+        "carMake": "Opel",
+        "carModel": "Omega",
+        "customerName": "Yvonne Mccalla",
+        "customerBirthDate": "1992-03-02T00:00:00"
+      },
+      {
+        "discount": 20.0,
+        "carMake": "Toyota",
+        "carModel": "Tacoma",
+        "customerName": "Yvonne Mccalla",
+        "customerBirthDate": "1992-03-02T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Ann Mcenaney",
+    "birthDate": "1992-03-02T00:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "discount": 20.0,
+        "carMake": "Ferrari",
+        "carModel": "F430",
+        "customerName": "Ann Mcenaney",
+        "customerBirthDate": "1992-03-02T00:00:00"
+      },
+      {
+        "discount": 40.0,
+        "carMake": "Mercedes",
+        "carModel": "W212",
+        "customerName": "Ann Mcenaney",
+        "customerBirthDate": "1992-03-02T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Cinthia Lasala",
+    "birthDate": "1992-11-01T00:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "discount": 0.0,
+        "carMake": "Chevy",
+        "carModel": "Caprice",
+        "customerName": "Cinthia Lasala",
+        "customerBirthDate": "1992-11-01T00:00:00"
+      },
+      {
+        "discount": 30.0,
+        "carMake": "Toyota",
+        "carModel": "Tacoma",
+        "customerName": "Cinthia Lasala",
+        "customerBirthDate": "1992-11-01T00:00:00"
+      },
+      {
+        "discount": 30.0,
+        "carMake": "Toyota",
+        "carModel": "Prius",
+        "customerName": "Cinthia Lasala",
+        "customerBirthDate": "1992-11-01T00:00:00"
+      },
+      {
+        "discount": 15.0,
+        "carMake": "Citroen",
+        "carModel": "C1",
+        "customerName": "Cinthia Lasala",
+        "customerBirthDate": "1992-11-01T00:00:00"
+      },
+      {
+        "discount": 5.0,
+        "carMake": "Nissan",
+        "carModel": "Altima",
+        "customerName": "Cinthia Lasala",
+        "customerBirthDate": "1992-11-01T00:00:00"
+      },
+      {
+        "discount": 30.0,
+        "carMake": "Great Wall",
+        "carModel": "H2",
+        "customerName": "Cinthia Lasala",
+        "customerBirthDate": "1992-11-01T00:00:00"
+      },
+      {
+        "discount": 20.0,
+        "carMake": "Mercedes",
+        "carModel": "A 160 CDI",
+        "customerName": "Cinthia Lasala",
+        "customerBirthDate": "1992-11-01T00:00:00"
+      },
+      {
+        "discount": 10.0,
+        "carMake": "Ford",
+        "carModel": "Pinto",
+        "customerName": "Cinthia Lasala",
+        "customerBirthDate": "1992-11-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Emmitt Benally",
+    "birthDate": "1993-11-20T00:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "discount": 5.0,
+        "carMake": "Ferrari",
+        "carModel": "250 GTO",
+        "customerName": "Emmitt Benally",
+        "customerBirthDate": "1993-11-20T00:00:00"
+      },
+      {
+        "discount": 30.0,
+        "carMake": "Peugeot",
+        "carModel": "206",
+        "customerName": "Emmitt Benally",
+        "customerBirthDate": "1993-11-20T00:00:00"
+      },
+      {
+        "discount": 15.0,
+        "carMake": "Chevy",
+        "carModel": "Impala",
+        "customerName": "Emmitt Benally",
+        "customerBirthDate": "1993-11-20T00:00:00"
+      },
+      {
+        "discount": 0.0,
+        "carMake": "Great Wall",
+        "carModel": "H8",
+        "customerName": "Emmitt Benally",
+        "customerBirthDate": "1993-11-20T00:00:00"
+      },
+      {
+        "discount": 20.0,
+        "carMake": "Nissan",
+        "carModel": "GT-R",
+        "customerName": "Emmitt Benally",
+        "customerBirthDate": "1993-11-20T00:00:00"
+      },
+      {
+        "discount": 40.0,
+        "carMake": "Chevy",
+        "carModel": "Camaro",
+        "customerName": "Emmitt Benally",
+        "customerBirthDate": "1993-11-20T00:00:00"
+      },
+      {
+        "discount": 30.0,
+        "carMake": "Nissan",
+        "carModel": "370Z",
+        "customerName": "Emmitt Benally",
+        "customerBirthDate": "1993-11-20T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Nisha Markwell",
+    "birthDate": "1994-04-04T00:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "discount": 0.0,
+        "carMake": "Mercedes",
+        "carModel": "W212",
+        "customerName": "Nisha Markwell",
+        "customerBirthDate": "1994-04-04T00:00:00"
+      },
+      {
+        "discount": 20.0,
+        "carMake": "Fiat",
+        "carModel": "500 (2007) Abarth 695 Tributo Maserati",
+        "customerName": "Nisha Markwell",
+        "customerBirthDate": "1994-04-04T00:00:00"
+      },
+      {
+        "discount": 40.0,
+        "carMake": "Ferrari",
+        "carModel": "Daytona",
+        "customerName": "Nisha Markwell",
+        "customerBirthDate": "1994-04-04T00:00:00"
+      },
+      {
+        "discount": 5.0,
+        "carMake": "Ford",
+        "carModel": "Fiesta",
+        "customerName": "Nisha Markwell",
+        "customerBirthDate": "1994-04-04T00:00:00"
+      },
+      {
+        "discount": 30.0,
+        "carMake": "Ford",
+        "carModel": "Fiesta",
+        "customerName": "Nisha Markwell",
+        "customerBirthDate": "1994-04-04T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Faustina Burgher",
+    "birthDate": "1994-06-01T00:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "discount": 30.0,
+        "carMake": "Seat",
+        "carModel": "Toledo",
+        "customerName": "Faustina Burgher",
+        "customerBirthDate": "1994-06-01T00:00:00"
+      },
+      {
+        "discount": 40.0,
+        "carMake": "Nissan",
+        "carModel": "Altima",
+        "customerName": "Faustina Burgher",
+        "customerBirthDate": "1994-06-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Taina Achenbach",
+    "birthDate": "1994-10-01T00:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "discount": 15.0,
+        "carMake": "Peugeot",
+        "carModel": "405",
+        "customerName": "Taina Achenbach",
+        "customerBirthDate": "1994-10-01T00:00:00"
+      },
+      {
+        "discount": 30.0,
+        "carMake": "Chevy",
+        "carModel": "Caprice",
+        "customerName": "Taina Achenbach",
+        "customerBirthDate": "1994-10-01T00:00:00"
+      },
+      {
+        "discount": 30.0,
+        "carMake": "Dacia",
+        "carModel": "Logan",
+        "customerName": "Taina Achenbach",
+        "customerBirthDate": "1994-10-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Johnette Derryberry",
+    "birthDate": "1995-10-01T00:00:00",
+    "isYoungDriver": true,
+    "sales": [
+      {
+        "discount": 30.0,
+        "carMake": "Nissan",
+        "carModel": "Altima",
+        "customerName": "Johnette Derryberry",
+        "customerBirthDate": "1995-10-01T00:00:00"
+      },
+      {
+        "discount": 0.0,
+        "carMake": "BMW",
+        "carModel": "1M Coupe",
+        "customerName": "Johnette Derryberry",
+        "customerBirthDate": "1995-10-01T00:00:00"
+      },
+      {
+        "discount": 10.0,
+        "carMake": "Toyota",
+        "carModel": "Corolla",
+        "customerName": "Johnette Derryberry",
+        "customerBirthDate": "1995-10-01T00:00:00"
+      },
+      {
+        "discount": 15.0,
+        "carMake": "Peugeot",
+        "carModel": "306",
+        "customerName": "Johnette Derryberry",
+        "customerBirthDate": "1995-10-01T00:00:00"
+      },
+      {
+        "discount": 50.0,
+        "carMake": "Ferrari",
+        "carModel": "F430",
+        "customerName": "Johnette Derryberry",
+        "customerBirthDate": "1995-10-01T00:00:00"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Daniele Zarate",
+    "birthDate": "1995-10-05T00:00:00",
+    "isYoungDriver": false,
+    "sales": [
+      {
+        "discount": 50.0,
+        "carMake": "Alfa Romeo",
+        "carModel": "156",
+        "customerName": "Daniele Zarate",
+        "customerBirthDate": "1995-10-05T00:00:00"
+      },
+      {
+        "discount": 0.0,
+        "carMake": "Great Wall",
+        "carModel": "Wingle 5",
+        "customerName": "Daniele Zarate",
+        "customerBirthDate": "1995-10-05T00:00:00"
+      },
+      {
+        "discount": 20.0,
+        "carMake": "Ferrari",
+        "carModel": "F40",
+        "customerName": "Daniele Zarate",
+        "customerBirthDate": "1995-10-05T00:00:00"
+      },
+      {
+        "discount": 10.0,
+        "carMake": "Dacia",
+        "carModel": "Sandero Stepway",
+        "customerName": "Daniele Zarate",
+        "customerBirthDate": "1995-10-05T00:00:00"
+      },
+      {
+        "discount": 30.0,
+        "carMake": "Nissan",
+        "carModel": "Rogue",
+        "customerName": "Daniele Zarate",
+        "customerBirthDate": "1995-10-05T00:00:00"
+      },
+      {
+        "discount": 30.0,
+        "carMake": "Mercedes",
+        "carModel": "W211",
+        "customerName": "Daniele Zarate",
+        "customerBirthDate": "1995-10-05T00:00:00"
+      }
+    ]
+  }
+]
